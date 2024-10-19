@@ -1,4 +1,4 @@
-# Jonas Machado's Portfolio
+# E Hemanth's Portfolio
 
 ![Portfolio Preview](/src/assets/img/portfolio.png)
 
