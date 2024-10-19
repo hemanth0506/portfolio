@@ -20,7 +20,7 @@ Hey there! I'm Jonas Machado, a passionate software developer with a love for cr
 
 ## Portfolio Links
 
-- **Live Portfolio:** [https://jonasmachado.netlify.app](https://jonasmachado.netlify.app)
+- 
 
 ## Description
 
@@ -51,37 +51,5 @@ My portfolio is a full-stack web application developed with a tech stack that re
 - **yup:** A JavaScript schema builder for value parsing and validation.
 - **Netlify:** A cloud computing company that offers hosting and serverless backend services.
 
-## Projects Showcase
 
-Here are some of the key projects featured in my portfolio:
-
-1. **Bookstore Management Web App**
-   - The Bookstore Management Web App is a comprehensive solution for managing book inventory, tracking sales and purchases, registering customers, and generating various reports. It is designed to provide a user-friendly interface for efficient stock control and business insights.
-
-2. **Backend To-Do List**
-   - The Backend To-Do List project serves as the backend for a to-do list application developed in Java with the Spring Boot framework. The project uses the Maven dependency manager and an H2 database.
-
-3. **Frontend To-Do List**
-   - The Frontend To-Do List is the user interface part of a To-Do List project, a web application that allows users to create, read, update, and delete to-do list items. The frontend was developed using HTML, CSS, JavaScript, and Yarn.
-
-Feel free to explore more projects on my live portfolio: [Jonas Machado's Portfolio](https://jonasmachado.netlify.app).
-
-## How to Run Locally
-
-To run the project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/jonasmachados/portfolio.git`
-2. Navigate to the project folder: `cd portfolio`
-3. Install dependencies: `yarn install`
-4. Start the application: `yarn start` 
-
-## Contact Information
-
-Feel free to reach out! I'm open to collaboration and always excited to connect with fellow developers.
-
-- **Email:** jonasmachado.ti@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jonas-machados/)
-- **Instagram:** [Instagram Profile](https://www.instagram.com/jonasmachado01/)
-
-Looking forward to hearing from you!
 
