@@ -1,6 +1,6 @@
 import logo from "../assets/img/logo.png";
 import "../styles/footer.css";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaEnvelope, FaLinkedinIn } from "react-icons/fa";
 import { AiFillInstagram, AiFillGithub } from "react-icons/ai";
 
 const Footer = () => {
@@ -56,6 +56,12 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/e-hemanth-439551248/">
             <i>
               <FaLinkedinIn />
+            </i>
+          </a>
+
+          <a href="mailto:edamalapatihemanth2003@gmail.com">
+            <i>
+              <FaEnvelope />
             </i>
           </a>
         </div>
