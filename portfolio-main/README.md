@@ -1,22 +1,12 @@
 # E Hemanth's Portfolio
 
-![Portfolio Preview](/src/assets/img/portfolio.png)
 
 Welcome to my professional portfolio! This repository contains the code for my personal website where I showcase my skills, projects, and a bit about myself.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Portfolio Links](#portfolio-links)
-- [Description](#description)
-- [Technologies Used](#technologies-used)
-- [Projects Showcase](#projects-showcase)
-- [How to Run Locally](#how-to-run-locally)
-- [Contact Information](#contact-information)
 
 ## Introduction
 
-Hey there! I'm Jonas Machado, a passionate software developer with a love for creating innovative solutions. This portfolio serves as a hub for anyone interested in learning more about my journey, skills, and the projects I've worked on.
+Hey there! I'm E Hemanth, a passionate software developer with a love for creating innovative solutions. This portfolio serves as a hub for anyone interested in learning more about my journey, skills, and the projects I've worked on.
 
 ## Portfolio Links
 
