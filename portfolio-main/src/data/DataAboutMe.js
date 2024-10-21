@@ -1,7 +1,7 @@
 const DataAboutMe = [
     {
       title: 'Who am I?',
-      content: 'My name is E HEMANTH. I am 21 years old and born in Amudala, Chittoor. Currently, I am looking for new job opportunities as a developer.',
+      content: 'My name is E HEMANTH, a 21-year-old developer from Amudala, Chittoor. I am currently seeking new job opportunities to further grow my skills and contribute to innovative projects in the tech industry.',
     },
     {
       title: 'Career Objective',
