@@ -43,10 +43,7 @@ const Main = () => {
                 </motion.h2>
 
                 <motion.p variants={childVariants}>
-                    I'm a dedicated developer passionate about crafting
-                    exceptional software solutions. With a focus on React and
-                    Spring Boot, I thrive on turning ideas into functional
-                    and user-friendly applications.
+                    To leverage my expertise in web development, and testing to enhance the full software development lifecycle within a dynamic team environment.
                 </motion.p>
 
 
