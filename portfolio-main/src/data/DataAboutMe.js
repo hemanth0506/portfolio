@@ -9,7 +9,7 @@ const DataAboutMe = [
     },
     {
       title: 'What is my educational background?',
-      content: 'I am currently pursuing a Bachelor's Degree in Computer Science and Engineering at KL University, with a focus on enhancing my technical expertise and preparing for a career in software development.',
+      content: 'I am currently pursuing a Bachelors Degree in Computer Science and Engineering at KL University, with a focus on enhancing my technical expertise and preparing for a career in software development.',
     },
   ];
 
