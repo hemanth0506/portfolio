@@ -27,7 +27,6 @@ const SkillsData = [
         skillName: 'Frontend',
         listTechnologies: [
             { name: 'React.js', icon: <FaReact /> },
-            { name: 'Bootstrap', icon: <FaBootstrap /> },
         ],
     },
     {
