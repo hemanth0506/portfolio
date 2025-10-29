@@ -6,7 +6,7 @@ import projImgId3 from "../assets/img/MicroSoft.png";
 const CertificationData = [
   {
     id: 1,
-    title: "AWS Certified Cloud Practitioner",
+    title: "AWS Certified",
     subtitle:
       "Validation Number : R5MTEYM2WJV4QB9C",
     description:
