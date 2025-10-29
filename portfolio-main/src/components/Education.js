@@ -18,10 +18,10 @@ const Education = () => {
         </thead>
         <tbody>
           <tr>
-            <td>2021-Present</td>
+            <td>2021-2025</td>
             <td>B.Tech in Computer Science and Engineering</td>
             <td>Koneru Lakshmaiah Education Foundation, Guntur</td>
-            <td>9.52</td>
+            <td>9.42</td>
           </tr>
           <tr>
             <td>2019-2021</td>
